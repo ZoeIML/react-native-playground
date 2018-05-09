@@ -1,0 +1,11 @@
+{
+  "name": "react-native-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZoeIML/react-native-playground.git",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^10.0.0",
+    "watchman": "^1.0.0"
+  }
+}
