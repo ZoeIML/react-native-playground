@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyleSheet, View } from 'react-native'
 
-import QR from './App.js'
+import QR from './QR.js'
 
 export default class App extends React.Component {
   render () {
